@@ -82,7 +82,7 @@ This project solves both problems by:
 - ⚖️ **Ensemble Modeling**: Pipeline compatibility with both classifiers and meta-models  
 - 📉 **Model Fit Diagnostics**: Custom overfit/underfit detection logic  
 - 📈 **Cross-Validation**: Stratified K-Fold with performance logging  
-- 🧪 **GridSearchCV Tuning**: Performed for every major model including SVM, XGBoost, and LightGBM
+- 🧪 **GridSearchCV Tuning**: Performed for every major model, including SVM, XGBoost, and LightGBM
 
 ---
 
@@ -95,7 +95,8 @@ This project solves both problems by:
    
 2. **Prepare your environment**
    ```bash
-  pip install -r requirements.txt
+   pip install -r requirements.txt
+   
 3. **Run either notebook**
 
 ## Key Takeaways
